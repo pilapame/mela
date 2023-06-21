@@ -1,0 +1,84 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4{
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Estilos específicos para la landing page */
+header {
+  
+  padding: 20px;
+  text-align: center;
+  background-color: #654ea3;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #eaafc8, #654ea3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#benefits {
+  background-color: #ffffff;
+  padding: 40px;
+}
+
+#cta {
+    background-color: #654ea3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #eaafc8, #654ea3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  padding: 40px;
+  text-align: center;
+}
+
+#testimonials {
+  background-color: #ffffff;
+  padding: 40px;
+}
+
+.testimonial {
+  margin-bottom: 20px;
+}
+
+#faq {
+  background-color: #f9f9f9;
+  padding: 40px;
+}
+
+.faq-item {
+  margin-bottom: 20px;
+}
+
+#contact {
+  background-color: #ffffff;
+  padding: 40px;
+  text-align: center;
+}
+
+footer {
+    background-color: #654ea3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #eaafc8, #654ea3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  padding: 20px;
+  text-align: center;
+}
+
+.social-media .social-icon {
+  margin: 0 5px;
+}
+
+img{
+    max-width: 100%;
+  height: auto;
+
+}
+/* Estilos adicionales según tus necesidades */
